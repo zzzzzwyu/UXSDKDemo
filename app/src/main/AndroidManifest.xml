@@ -56,7 +56,7 @@
             android:resource="@xml/accessory_filter" />
     </activity>
 
-        <service android:name="dji.sdk.sdkmanager.DJIGlobalService"></service>
+        <!--<service android:name="dji.sdk.sdkmanager.DJIGlobalService"></service>-->
     <!-- DJI SDK -->
         <activity android:name=".MainActivity">
             <intent-filter>
